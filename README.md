@@ -27,7 +27,6 @@ Below is a brief explanation of the directory structure.
 │   └── ...
 └── ...
 ```
-```
 
 ----
 
@@ -47,7 +46,6 @@ sudo chmod +x ${Your_system}_install.sh && ./${Your_system}_install.sh
 # Run compiled output
 cd build && ./face_detector
 ```
-```
 
 ---
 
@@ -61,5 +59,4 @@ To build an executable installer of the Bird application you would simple run:
 cd build
 cmake -DOpenCV_DIR=../libs/opencv/build ../src
 cmake --build .
-```
 ```
