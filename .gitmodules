@@ -1,0 +1,9 @@
+[submodule "extern/opencv"]
+	path = extern/opencv
+	url = https://github.com/opencv/opencv.git
+[submodule "extern/opencv_contrib"]
+	path = extern/opencv_contrib
+	url = https://github.com/opencv/opencv_contrib.git
+[submodule "extern/dlib"]
+	path = extern/dlib
+	url = https://github.com/davisking/dlib.git
