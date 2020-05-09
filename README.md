@@ -50,7 +50,7 @@ cd build && ./face_detector
 ---
 
 ### Building
-To build an executable installer of the Bird application you would simple run:
+To build an executable or binary:
 ```bash
 #Run compiled script
 ./build.sh
